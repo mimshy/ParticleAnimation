@@ -1,0 +1,26 @@
+{
+"name": "particleanimationpro01",
+"version": "1.0.0",
+"description": "This is a simple example of a particle animation effect created using HTML5 Canvas and JavaScript.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mimshy/ParticleAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mimshy",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
